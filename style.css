@@ -1,0 +1,77 @@
+
+.container{
+    margin-bottom: 100px;
+}
+.pink-bg{
+    background-color: #FCEAEB;
+    border-radius: 10px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.price{
+    color:#FF136F;
+}
+.btn{
+    background-image: linear-gradient(to bottom , hsl(337, 77%, 68%) 0%,#FF136F 100%);
+    color:#fff;
+    margin-top: 10px;
+    padding:10px 25px;
+    border:none;
+    border-radius: 7px;
+}
+.cat1{
+    background-color: orange;
+    padding:1px 30px;
+    border-radius: 10px;
+    height: 180px;
+}
+.cat2{
+    background-color: orchid;
+    padding:10px 30px;
+    border-radius: 10px;
+    height: 180px;
+}
+.cat3{
+    background-color: blue;
+    padding:10px 30px;
+    border-radius: 10px;
+    height: 180px;
+}
+.Categories h1{
+    color:#fff
+}
+.Categories img{
+    width:120px;
+}
+.card{
+    border:none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px lightgray;
+}
+.card-footer{
+    border-top:none;
+}
+#Subscribe{
+    height:300px;
+    background-color:#feeae9 ;
+    border-radius: 10px;
+}
+
+.contact-form{
+    border: 1px solid #FF136F;
+    border-radius: 7px;
+    padding:10px 25px;
+   
+}
+.Submit{
+    background-image: linear-gradient(to bottom , hsl(337, 77%, 68%) 0%,#FF136F 100%);
+    color:#fff;
+    margin-top: 10px;
+    padding:10px 25px;
+    border:none;
+    border-radius: 7px;
+}
+footer{
+    text-align: center;
+}
